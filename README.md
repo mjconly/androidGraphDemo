@@ -10,3 +10,4 @@ a scaled down version of the main view displaying the entire canvas
 as well as the users current location on the canvas.
 
 ## Demo
+![] (https://github.com/mjconly/androidGraphDemo/blob/master/dirGIF/20190415_223217.gif)
